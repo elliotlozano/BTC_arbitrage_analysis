@@ -1,6 +1,6 @@
 # Bitcoin Arbitrage Analysis
 
-This is a python command-line interface application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a `daily_rate_sheet` of loan criteria from various loan providers, asks the user a number of questions to evaluate their loan eligibility, and then returns to them a list of qualifying loans.
+project description and purpose
 
 ---
 
@@ -29,21 +29,17 @@ Before running the application first install the following dependencies:
 
 ## Usage
 
-To use the loan qualifier application simply clone the repository and run the **app.py** with:
+usage instructions and relevant visuals
 
-```python
-python app.py
-```
-
-Upon launching the loan qualifier application you will be greeted with the following prompts.
-
-![Loan Qualifier Prompts](app_prompts.png)
+![Name](filename.type)
 
 ---
 
 ## Contributors
 
 Elliot Lozano
+
+[E-mail](elliotlozano95@gmail.com)
 
 ---
 
