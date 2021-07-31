@@ -1,5 +1,9 @@
-# Bitcoin Arbitrage Analysis
+# Bitcoin Arbitrage Analysis:
+`A study of 2018 price action on two popular exchanges`
 
+---
+
+## Description
 project description and purpose
 
 ---
