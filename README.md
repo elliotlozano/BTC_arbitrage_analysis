@@ -17,7 +17,7 @@ This project leverages python 3.7 with the following packages:
 
 * [pandas](https://github.com/pandas-dev/pandas) - For reading data into a DataFrame.
 
-* [pathlib](https://docs.python.org/3/library/pathlib.html) - For representing the file system path to a csv.
+* [pathlib](https://docs.python.org/3/library/pathlib.html) - For generating a file path to a CSV.
 
 * [matplotlib](https://matplotlib.org/stable/users/index.html) - For embedding plots in the application.
 
