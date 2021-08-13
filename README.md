@@ -40,7 +40,9 @@ To use the Bitcoin arbitrage analysis code:
 
 1. Locally clone the BTC_arbitrage_analysis repository from GitHub using the following link:
 
-    `git clone https://github.com/elliotlozano/BTC_arbitrage_analysis.git`
+```python
+git clone https://github.com/elliotlozano/BTC_arbitrage_analysis.git
+```
 
 2. Run the [crypto_arbitrage](crypto_arbitrage.ipynb) program.
 
